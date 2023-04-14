@@ -69,7 +69,7 @@ $(function(){
     $("#mymap").css("cursor", "pointer")
   })
   $("#my6000").click(function() {
-    window.open("http://localhost:3000/", "_blank");
+    window.open("https://yang87924.github.io/react-crud/", "_blank");
 
   });
   $('#my6000').mouseenter(function(){
