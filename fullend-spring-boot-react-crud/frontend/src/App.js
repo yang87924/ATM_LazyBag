@@ -172,9 +172,9 @@ class App extends React.Component {
               {/* <i class="material-icons right">send</i> */}
             </button>
           </form>
-          <NavLink to="/Page1">
+          {/* <NavLink to="/Page1">
 
-          </NavLink>
+          </NavLink> */}
           <button onClick={this.handleClick} class="btn waves-effect waves-light " type="submit" name="action">查看
             {/* <i class="material-icons right">send</i> */}
           </button>
